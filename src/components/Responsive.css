@@ -1,0 +1,288 @@
+@media only screen and (max-width: 400px) and (min-width: 350px) {
+    .nav-logo {
+        width: 18%;
+        margin-right: -70px;
+        /* margin-bottom: 30px; */
+    }
+
+    .ambani-img {
+        height: 24vh;
+    }
+
+    .ambani-img p {
+        top: 89%;
+        padding: 7px;
+        font-size: 12px;
+    }
+
+    .innovation-img {
+        height: 24vh;
+    }
+
+    .innovation-img p {
+        top: 87%;
+        padding: 2px;
+        font-size: 12px;
+    }
+
+    .reliance-foundation {
+        height: 24vh;
+    }
+
+    .reliance-foundation p {
+        top: 91%;
+        padding: 4px;
+        font-size: 12px;
+    }
+
+    .pinapple-img {
+        height: 24vh;
+    }
+
+    .pinapple-img p {
+        top: 86%;
+        padding: 4px;
+        font-size: 12px;
+    }
+
+    .doctor-img {
+        height: 24vh;
+    }
+
+    .doctor-img p {
+        top: 89%;
+        padding: 0px;
+        font-size: 12px;
+    }
+
+    .chemistry-lab-img {
+        height: 24vh;
+    }
+
+    .chemistry-lab-img p {
+        top: 89%;
+        padding: 0px;
+        font-size: 12px;
+    }
+
+    .race-img {
+        height: 24vh;
+    }
+
+    .race-img p {
+        top: 84%;
+        padding: 0px;
+        font-size: 12px;
+    }
+
+    .grass-img {
+        height: 24vh;
+    }
+
+    .grass-img p {
+        top: 86%;
+        padding: 4px;
+        font-size: 12px;
+    }
+
+    .hospital-img {
+        height: 24vh;
+    }
+
+    .hospital-img p {
+        top: 86%;
+        padding: 4px;
+        font-size: 12px;
+    }
+
+    .whoweare {
+        margin-bottom: -40px;
+
+    }
+
+    .about-work-container {
+        margin-top: 81px;
+        padding-bottom: 1rem;
+    }
+
+    .custom-slider-2 {
+        display: none !important;
+    }
+
+    .custom-slider-1 {
+        display: block !important;
+        position: relative;
+    }
+
+    .education-d {
+        width: 100%;
+        margin-bottom: 66px;
+    }
+
+    .view-all-btn {
+        margin-left: 37%;
+    }
+
+    .common-title {
+        font-size: 20px;
+    }
+
+
+    .row-education .swiper-button-prev:after,
+    .swiper-rtl .swiper-button-next:after {
+        margin-left: 29.5rem;
+    }
+
+    .about-btn {
+        position: absolute;
+        bottom: 0;
+    }
+
+    .about-footer img {
+        width: 39%;
+        margin-left: 43px;
+        margin-top: 1rem;
+        height: 11vh;
+    }
+
+    .read-more.btn {
+        display: none;
+    }
+
+    .terms-condition {
+        top: 100%;
+        margin-top: -21px;
+        padding-top: 0px;
+    }
+
+    /* WHO WE Are  */
+
+
+    .om-img img {
+        margin-left: 0;
+    }
+
+    .text-om p {
+        margin-top: 0rem;
+    }
+
+    .about-main h3 {
+        font-size: 1.4rem;
+    }
+
+    .igbox ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .no-border {
+        margin-left: 0px;
+    }
+
+    .roundcontent {
+        margin-bottom: 22px;
+    }
+
+    .handle {
+        display: none;
+    }
+
+    .igbox ul {
+        border-bottom: 0;
+    }
+
+    .outcome {
+        margin-left: 26px;
+        margin-top: 55px;
+    }
+
+    .long-team {
+        margin-top: 0px;
+        margin-left: 23px;
+    }
+
+    .group-img img {
+        width: 51%;
+        transform: rotate(270deg);
+        margin-left: -3px;
+        margin-top: -63px;
+    }
+
+    .rural-former img {
+        height: 51vh;
+        width: 100%;
+        margin: auto;
+        margin-left: 0rem;
+        padding-bottom: 20px;
+    }
+
+    .rural-former-text {
+        margin-left: 0rem;
+    }
+
+    .health-home img {
+        height: 38vh;
+    }
+
+    .research-cenetr-img img {
+        height: 50vh;
+    }
+
+    .olmpic-img img {
+        width: 20rem;
+        margin: auto;
+        height: 53vh;
+        margin-top: 0%;
+        margin-left: -20%;
+        margin-bottom: 5%;
+    }
+
+
+
+
+
+
+
+
+}
+
+@media screen and (min-width:769px) and (max-width:991px) {
+    .eWcBJs {
+        width: 100%;
+        overflow: hidden;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm {
+        max-width: 1025px;
+
+    }
+}
